@@ -1,0 +1,14 @@
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+python-builtwith>=1.1.0
+googlemaps>=4.10.0
+selenium>=4.1.0
+concurrent-futures>=3.1.0  # For parallel processing in PageSpeed analyzer
+statistics>=3.0.0          # For statistical calculations in PageSpeed analyzer
+dnspython>=2.2.0          # For DNS checks in security scanner
+urllib3>=1.26.0           # For enhanced URL handling
+websocket-client
+tqdm # Added for progress bar
+PySocks>=1.7.1            # For SOCKS proxy support
+
+# Add any other dependencies as needed 

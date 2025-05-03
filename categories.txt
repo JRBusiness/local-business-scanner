@@ -1,0 +1,27 @@
+shop stores
+clothing stores
+shoe stores
+jewelry stores
+furniture stores
+electronics stores
+liquor stores
+department stores
+convenience stores
+car dealerships
+car repair
+gas stations
+banks
+atms
+post offices
+schools
+universities
+museums
+art galleries
+parks
+places of worship
+movie theaters
+night clubs
+bars
+travel agencies
+storage
+parking
